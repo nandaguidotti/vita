@@ -1,0 +1,11 @@
+fastapi==0.136.0
+setuptools==65.5.0
+starlette==1.0.0
+uvicorn==0.44.0
+cvlib==0.2.6
+opencv-python-headless==4.5.3.56
+Pillow==8.4.0.
+tensorflow==2.7.0
+python-multipart==0.0.5
+nest-asyncio==1.5.4
+protobuf==3.20
